@@ -38,7 +38,7 @@ int main()
     pq3.push(Employee(101, "Shivam", 20000.00));
     pq3.push(Employee(102, "Shalinee", 30000.00));
     pq3.push(Employee(103, "Romil", 25000.00));
-    pq3.push(Employee(104, "Jay", 15000.00));
+    pq3.push(Employee(104, "Zuber", 15000.00));
 
     Employee e=pq3.top();
     e.showEmployee();
@@ -56,7 +56,7 @@ int main()
     pq2.push("Sandeep");
     pq2.push("Anuj");
     pq2.push("Sadhna");
-    pq2.push("Jhalkan");
+    pq2.push("Zuber");
     cout << pq2.top() << endl;
 
     return 0;
