@@ -187,6 +187,6 @@ void example20()//is_sorted_until
 }
 int main()
 {
-    example20();
+    example1();
     return 0;
 }
